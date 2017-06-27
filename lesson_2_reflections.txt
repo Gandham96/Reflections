@@ -1,0 +1,13 @@
+Initializing a git repo starts a query where we can start making commits
+
+Staging area is where you put the files you want on to one commit, its prep area
+
+I can use staging area to see what files I want to add to a certain commit and what comments I can add to it
+
+If I want to create different versions of the game, then I can create branches to my program.
+
+The diagrams help me know what the 'head' comment means when we checkout.
+
+The result of merging two branches together decreases the clutter.
+
+Automatic can create conflicts cause Git looks at areas of code that are similar.
