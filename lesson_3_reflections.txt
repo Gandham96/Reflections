@@ -5,3 +5,7 @@ If I wanted to contribute my work with others and have their input to make my co
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 In this case, I can know exactly what information has been changed in my local and remote so that I can analzyze and see which is the best decision to make when doing the pull changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are a version of clones over the GitHub servers. It also gives credibility to the owners that we forked from. Clones can be made from user to user without the knowledge of where the clone's origin was. Branching gives us the ability to make certain parts of our project private.
