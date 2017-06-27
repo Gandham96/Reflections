@@ -1,0 +1,13 @@
+Using diff between two versions of a file helped me see the bug that was introduced in a much easier way than manually going through each line of code. The program simply compared the two versions of the file and recognized what was changed and highlighted them for us to further investigate. This is a time saving method!
+
+Having easy access to the entire history of a file can make me more efficient in programming in the long run because I will have progress bar of the updates I've done and will have previous versions to work off of in case the newer ones start malfunctioning or dont go in the way I want them to go.
+
+Pros of having to manually choose when to commit is that you know exactly where you would like commit and comment. This also gives you a 100% idea of why you created a certain commit when you go back and look through them. Cons of this is the number of commits you might accumulate, and also the danger of forgetting to commit after a reasonably big change in your code.
+
+Git allows for savings for multiple files because there might be a connection that was done in one file, with all the others. For example, if a name of a function was changed, it would most likely change throughout the other files. Also, the git diff function would show us how the multiple files have changed.
+
+Git diff, as I've mentioned in my previous reflection, is how we can see the differences in each of the commits we did. We can see what was added and what was deleted. Git log gives us all of the commits we've created in the repo
+
+Verison control lets me have the confidence that I will still have a revertion process and a version that works to go back to if I make a fatal mistake in my newer commits.
+
+I will use git for my future projects which have large programs and lines of code for easier editing.
