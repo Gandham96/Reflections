@@ -17,3 +17,7 @@ You will have the most up to date version of your remote in case a problem occur
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would have to manually share all of my data and then have a group meeting every so often. Inefficient and frustrating.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If it is from a pull request that can be taken as an addition or change to the original component to your program/item. This benefits having two versions or more that work simultaneously.
