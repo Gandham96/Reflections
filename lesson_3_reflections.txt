@@ -13,3 +13,7 @@ Forks are a version of clones over the GitHub servers. It also gives credibility
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You will have the most up to date version of your remote in case a problem occurs in the long run.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to manually share all of my data and then have a group meeting every so often. Inefficient and frustrating.
