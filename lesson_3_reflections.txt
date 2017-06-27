@@ -9,3 +9,7 @@ In this case, I can know exactly what information has been changed in my local a
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are a version of clones over the GitHub servers. It also gives credibility to the owners that we forked from. Clones can be made from user to user without the knowledge of where the clone's origin was. Branching gives us the ability to make certain parts of our project private.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You will have the most up to date version of your remote in case a problem occurs in the long run.
